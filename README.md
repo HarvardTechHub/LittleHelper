@@ -1,4 +1,4 @@
 LittleHelper
 ============
 
-LittleHelper repository
+LittleHelper repository. Be safe out there.
