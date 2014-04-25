@@ -6,17 +6,17 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>      
     <item>
-	    <title>LittleHelper Version 2.3.1</title>
+	    <title>LittleHelper Version 2.3.2</title>
 	    <sparkle:releaseNotesLink>
-	      https://raw.github.com/HarvardTechHub/LittleHelper/master/releases/v2.3.1/releaseNotes.html
+	      https://raw.github.com/HarvardTechHub/LittleHelper/master/releases/v2.3.2/releaseNotes.html
 	    </sparkle:releaseNotesLink>
-	    <pubDate>Mon, 21 Apr 2014 03:25:00 -0000</pubDate>
+	    <pubDate>Mon, 25 Apr 2014 02:15:00 -0000</pubDate>
 	    <enclosure
-		    url="https://github.com/HarvardTechHub/LittleHelper/blob/master/releases/v2.3.1/LittleHelper_v2.3.1.zip?raw=true"
-		    sparkle:version="2.3.1"
+		    url="https://github.com/HarvardTechHub/LittleHelper/blob/master/releases/v2.3.2/LittleHelper_v2.3.2.zip?raw=true"
+		    sparkle:version="2.3.2"
 		    type="application/octet-stream"
-		    length="12236676"
-		    sparkle:dsaSignature="MCwCFH7cL7RkZXVp30ELnkrGZtmyFdwLAhRPtJljvncQwSdevY54CyqpwMdsBw=="
+		    length="13382900"
+		    sparkle:dsaSignature="MC0CFQCwuYvTqlqyBoCUjfoQS/XpPnaRGwIUIjHe81kYB5obT2plVFdvUCSl2u4="
 	    />
     </item>
   </channel>
